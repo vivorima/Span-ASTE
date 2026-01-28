@@ -5,4 +5,4 @@ This model, named Span-ASTE, aims to address the limitations of existing approac
 
 It employs a span-level approach that accounts for the interactions among all targets and opinions to predict their sentiment relationship.
 
-Link for te data used: https://drive.google.com/drive/folders/14vaYXxtUivqPjDdViqyGYGIjLYF3ee_l?usp=sharing
+The three datasets we used are Rest14, Rest15 and Rest16. Link for te data used: https://ieee-dataport.org/documents/sentiment-analysis-datasets
